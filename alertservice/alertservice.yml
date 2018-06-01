@@ -1,4 +1,4 @@
-alertservice.testproperty: "I AM IN THE DEFAULT CHANGE 8"
+alertservice.testproperty: "I AM IN THE DEFAULT CHANGE 9"
 spring.jpa.database: "POSTGRESQL"
 spring.datasource.platform:  "postgres"
 spring.jpa.show-sql: "false"
